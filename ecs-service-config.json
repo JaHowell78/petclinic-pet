@@ -1,7 +1,7 @@
 {
     "count": "2",
     "memory": "1024",
-    "port": "8080",
-    "path": "/pet/*",
+    "port": "80",
+    "path": "/pet",
     "priority": "1"
 }
